@@ -1,7 +1,6 @@
-
 <html>
 <body>
-<h1> 1st Heading</h1>
+<h1>1st Heading</h1>
 <p> First <u>paragraph</u></p>
 <p> Second <i>paragraph</i></p>
 <p> Third <b>paragraph<b></p>
